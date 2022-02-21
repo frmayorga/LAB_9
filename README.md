@@ -25,6 +25,8 @@ Se realizo la investigacion de fasores, para poder realizar los ejercicios propu
 
 **8.5.1. Transforme a su forma polar:**
 
+![image](https://user-images.githubusercontent.com/93561706/155039919-f688cccd-ed61-4642-94c1-1721951fe455.png)
+
 
 **8.5.2 Transforme a su forma rectangular:**
 
