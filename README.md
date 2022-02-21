@@ -38,6 +38,9 @@ Para el primer ejercicio en su forma rectangular tenemos:
 
 En su forma polar tenemos: 
 
+![image](https://user-images.githubusercontent.com/93361435/155020202-366dd2df-4a15-47e7-a03e-15cb7c127ee2.png)
+
+![image](https://user-images.githubusercontent.com/93361435/155020233-a9bc06f0-50fb-4f64-916f-d2d212aa74a9.png)
 
 
 
