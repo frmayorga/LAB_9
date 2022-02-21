@@ -14,41 +14,29 @@
 
 
 
-**CODIGO DE COLORES PARA RESISTORES DE 4 BANDAS** 
-
-| DIGITO | COLOR |
-|--------|------------|
-| 0 | Negro |
-| 1 | Café |
-| 2 | Rojo |
-| 3 | Naranja |
-| 4 | Amarillo |
-| 5 | Verde |
-| 6 | Azul |
-| 7 | Violeta |
-| 8 | Gris |
-| 9 | Blanco |
-
-TOLERANCIA : Oro +- 5%; Plata +- 10%.
-
 
 
 # PROCEDIMIENTO
 
-Se utilizo los siguientes materiales 
-
-| CANTIDAD | MATERIAL O EQUIPO |
-|----------|-------------------------|
-| 1 | Fuente de voltaje de C.D. |
-| 2 | Multímetros Digitales |
-| 1 | Resistor de 1 kΩ |
-| 2 | Resistores de 2.2 kΩ |
-| 1 | Resistor de 1.8 kΩ |
-| 1 | Resistor de 3.9 kΩ |
-| 1 | Protoboard |
+Se realizo la investigacion de fasores, para poder realizar los ejercicios propuestos, los cuales estan respondidos en la respuesta de interrogantes, tambien se utilizo una calculadora cientifica con el fin de corroborar los resultados obtenidos.
 
 
 # RESPUESTA DE INTERROGANTES
+
+**8.5.1. Transforme a su forma polar:**
+
+
+**8.5.2 Transforme a su forma rectangular:**
+
+
+**8.5.3. Realice las siguientes operaciones paso a paso, y represente el resultado tanto en suforma rectangular como en su forma polar.**
+Para el primer ejercicio en su forma rectangular tenemos:
+
+![image](https://user-images.githubusercontent.com/93361435/154959802-53291095-195c-418d-95a7-bee74ecabf75.png)
+
+![image](https://user-images.githubusercontent.com/93361435/154960393-c83037e9-d55a-46b7-bb3f-4e17fe7292e0.png)
+
+En su forma polar tenemos: 
 
 
 
