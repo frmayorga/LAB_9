@@ -30,6 +30,8 @@ Se realizo la investigacion de fasores, para poder realizar los ejercicios propu
 
 
 **8.5.3. Realice las siguientes operaciones paso a paso, y represente el resultado tanto en suforma rectangular como en su forma polar.**
+
+
 Para el primer ejercicio en su forma rectangular tenemos:
 
 ![image](https://user-images.githubusercontent.com/93361435/154959802-53291095-195c-418d-95a7-bee74ecabf75.png)
@@ -42,6 +44,18 @@ En su forma polar tenemos:
 
 ![image](https://user-images.githubusercontent.com/93361435/155020233-a9bc06f0-50fb-4f64-916f-d2d212aa74a9.png)
 
+Para el segundo ejercicio en su forma rectangular tenemos:
+
+
+
+En su forma polar tenemos: 
+
+![image](https://user-images.githubusercontent.com/93361435/155030142-d1c30400-b739-4867-9b92-ad5afce37e41.png)
+
+Para el tercer ejercicio en su forma rectangular tenemos:
+
+
+En su forma polar tenemos: 
 
 
 # VIDEO
