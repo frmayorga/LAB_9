@@ -4,10 +4,12 @@
 # OBJETIVOS
 
 ## OBJETIVO GENERAL 
-
+- mediante la investigacion de los numeros complejos y operaciones con los mismos desarrollar los ejercicios propuestos en la guia correspondiente.
 
 ## OBJETIVO ESPECIFICO
 
+- descomponer fasores de su forma polar a rectangular y viceversa.
+- realizar los ejercicios propuestos.
 
 
 # MARCO TEORICO
