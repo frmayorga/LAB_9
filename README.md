@@ -130,6 +130,8 @@ https://youtu.be/6DneXgzY5xQ
 
 # CONCLUSIONES
 
+- Se pudo observar que en algunas ocasiones es mas facil realizar operaciones con numeros polares como es el caso de multiplicacion y division
+- En los numeros polares la representacion es mucho mejor que en rectangular para la materia, ya que como veremos en cursos superiores se utilizaran angulos de desfase los cuales ayudaran a los calculos respectivos
 
 # BIBLIOGRAFIA
 
