@@ -55,6 +55,10 @@ En su forma polar tenemos:
 
 Para el tercer ejercicio en su forma rectangular tenemos:
 
+![image](https://user-images.githubusercontent.com/93361435/155042394-9a8375f2-9cb8-42f8-84c3-9ec576b36ade.png)
+
+![image](https://user-images.githubusercontent.com/93361435/155042424-44e73c72-74af-40ff-bd61-aa343510a537.png)
+
 
 En su forma polar tenemos: 
 
