@@ -28,7 +28,7 @@ Se realizo la investigacion de fasores, para poder realizar los ejercicios propu
 **8.5.2 Transforme a su forma rectangular:**
 - hacemos uso del plano imaginario para descomponer los fasores en sus componentes polares de la siguiente manera:  
 ![image](https://user-images.githubusercontent.com/93398718/155068347-68a68c99-45a4-4ca5-9212-6e169323166d.png)  
-- conocemos que un fasor en su forma rectangular tiene la siguente forma Z = A + jB, donde A=Ccosθ y B=Csinθ conociendo esto procedemos a resolver los ejercicios de la siguiente manera:
+- conocemos que un fasor en su forma rectangular tiene la siguente forma Z = A + jB, donde A=Ccosθ y B=Csinθ conociendo esto procedemos a resolver los ejercicios de la siguiente manera:  
 ![image](https://user-images.githubusercontent.com/93398718/155071003-65861378-bc78-4a21-96ba-ddb78c30af9c.png)  
 
 
