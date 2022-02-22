@@ -70,6 +70,21 @@ En su forma polar tenemos:
 **8.5.4 Resuelva las operaciones anteriores por medio de la calculadora y compare
 resultados**
 
+![image](https://user-images.githubusercontent.com/93561706/155044243-3514b5c6-7b71-4c46-9e6e-96eedbb10c0e.png)
+![image](https://user-images.githubusercontent.com/93561706/155044503-c3721b62-d533-4934-96e8-57a54816c646.png)
+
+![image](https://user-images.githubusercontent.com/93561706/155044322-9514086f-ea0c-496d-8f43-a89819af8711.png)
+![image](https://user-images.githubusercontent.com/93561706/155044585-fdc65e8b-2d54-4008-b115-d2dcecf38ab2.png)
+![image](https://user-images.githubusercontent.com/93561706/155044603-6a48e2fb-a4c0-453a-afc6-f3fc04abae13.png)
+
+
+![image](https://user-images.githubusercontent.com/93561706/155044370-820e6268-682d-480a-818e-948e43ca7011.png)
+![image](https://user-images.githubusercontent.com/93561706/155044654-373aa46a-ab59-4ee1-aaa3-dbca44ae7ee8.png)
+
+![image](https://user-images.githubusercontent.com/93561706/155044444-5951bfa2-029e-4d08-adc5-702bc561408a.png)
+![image](https://user-images.githubusercontent.com/93561706/155044746-677ffd95-bd61-40ae-90a1-29ec190ddd18.png)
+![image](https://user-images.githubusercontent.com/93561706/155044780-86a11d7f-95a3-4363-a836-fe3fc0f46c4a.png)
+
 # VIDEO
 
 
