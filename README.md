@@ -67,6 +67,8 @@ En su forma polar tenemos:
 
 ![image](https://user-images.githubusercontent.com/93361435/155033022-2941c3f7-fc3d-4f92-8e77-1c808f7196f5.png)
 
+**8.5.4 Resuelva las operaciones anteriores por medio de la calculadora y compare
+resultados**
 
 # VIDEO
 
