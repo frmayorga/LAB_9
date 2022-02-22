@@ -49,7 +49,8 @@ Para el segundo ejercicio en su forma rectangular tenemos:
 
 ![image](https://user-images.githubusercontent.com/93361435/155043909-bcd95f02-2dd8-4d7d-b319-a4ca0549489b.png)
 
-![image](https://user-images.githubusercontent.com/93361435/155043943-4688c57b-9815-4691-bef9-ef7c60666220.png)
+![image](https://user-images.githubusercontent.com/93361435/155044878-74f33553-89fe-4f6b-bd2b-6729d35f9748.png)
+
 
 
 En su forma polar tenemos: 
@@ -60,7 +61,7 @@ Para el tercer ejercicio en su forma rectangular tenemos:
 
 ![image](https://user-images.githubusercontent.com/93361435/155042394-9a8375f2-9cb8-42f8-84c3-9ec576b36ade.png)
 
-![image](https://user-images.githubusercontent.com/93361435/155042424-44e73c72-74af-40ff-bd61-aa343510a537.png)
+![image](https://user-images.githubusercontent.com/93361435/155044927-5ddae022-f431-4e09-9d1d-5228e0336dc1.png)
 
 
 En su forma polar tenemos: 
@@ -70,27 +71,34 @@ En su forma polar tenemos:
 **8.5.4 Resuelva las operaciones anteriores por medio de la calculadora y compare
 resultados**
 
-![image](https://user-images.githubusercontent.com/93561706/155044898-01509bf6-956c-4de9-9a8e-7f17051df760.png)
 
-![image](https://user-images.githubusercontent.com/93561706/155044243-3514b5c6-7b71-4c46-9e6e-96eedbb10c0e.png)
-![image](https://user-images.githubusercontent.com/93561706/155044503-c3721b62-d533-4934-96e8-57a54816c646.png)
+**Seccion 8.5.3**
 
-![image](https://user-images.githubusercontent.com/93561706/155044930-f863e1f8-fa0d-4b2e-949b-9fc0038f4884.png)
+**EJERCICIO 1**
 
-![image](https://user-images.githubusercontent.com/93561706/155044322-9514086f-ea0c-496d-8f43-a89819af8711.png)
-![image](https://user-images.githubusercontent.com/93561706/155044585-fdc65e8b-2d54-4008-b115-d2dcecf38ab2.png)
-![image](https://user-images.githubusercontent.com/93561706/155044603-6a48e2fb-a4c0-453a-afc6-f3fc04abae13.png)
+- PARTE REAL 
+![image](https://user-images.githubusercontent.com/93361435/155044185-7cc3c9fa-a378-472c-b171-a6f327173ca5.png)
 
-![image](https://user-images.githubusercontent.com/93561706/155044949-3126364f-8640-4c2a-b8ed-ee0c7832cafa.png)
+-PARTE IMAGINARIA
+![image](https://user-images.githubusercontent.com/93361435/155044258-f41e6bde-6cbb-43ae-9815-49b11fe8584a.png)
 
-![image](https://user-images.githubusercontent.com/93561706/155044370-820e6268-682d-480a-818e-948e43ca7011.png)
-![image](https://user-images.githubusercontent.com/93561706/155044654-373aa46a-ab59-4ee1-aaa3-dbca44ae7ee8.png)
+**EJERCICIO 2**
 
-![image](https://user-images.githubusercontent.com/93561706/155044967-c306e61a-ca87-4484-9371-c46e317c1f75.png)
+-  PARTE REAL
+![image](https://user-images.githubusercontent.com/93361435/155044711-b3955505-01fe-4a20-af93-4d70c1019784.png)
 
-![image](https://user-images.githubusercontent.com/93561706/155044444-5951bfa2-029e-4d08-adc5-702bc561408a.png)
-![image](https://user-images.githubusercontent.com/93561706/155044746-677ffd95-bd61-40ae-90a1-29ec190ddd18.png)
-![image](https://user-images.githubusercontent.com/93561706/155044780-86a11d7f-95a3-4363-a836-fe3fc0f46c4a.png)
+- PARTE IMAGINARIA
+![image](https://user-images.githubusercontent.com/93361435/155044720-993cecb0-b0d1-4840-9a2d-acb2201f945a.png)
+
+**EJERCICIO 3**
+
+-PARTE REAL
+![image](https://user-images.githubusercontent.com/93361435/155045077-cf93a11c-b69a-4b53-bbbd-303e471a51f9.png)
+
+-PARTE IMAGINARIA
+![image](https://user-images.githubusercontent.com/93361435/155045110-9621cb64-c89c-4886-aaf9-ed78bb392658.png)
+
+
 
 # VIDEO
 
