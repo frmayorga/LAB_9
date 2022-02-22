@@ -74,38 +74,48 @@ En su forma polar tenemos:
 
 **8.5.4 Resuelva las operaciones anteriores por medio de la calculadora y compare
 resultados**
+
 **Seccion 8.5.1**
+
 **EJERCICIO 1** 
 
 - Magnitud
+
 ![image](https://user-images.githubusercontent.com/93561706/155140727-5ae10f4c-d6fc-45d6-8e35-c120d2f8147c.png)
 
 - Ángulo
+
 ![image](https://user-images.githubusercontent.com/93561706/155140894-beb97075-580a-4160-98b9-d45242652cf3.png)
 
 **EJERCICIO 2**
 
 - Magnitud
+
 ![image](https://user-images.githubusercontent.com/93561706/155141155-e4494b43-20f0-46fc-9c75-f51defc44aae.png)
 
 - Ángulo
+
 ![image](https://user-images.githubusercontent.com/93561706/155141247-aa873404-828e-4117-94f9-e6424625496a.png)
 ![image](https://user-images.githubusercontent.com/93561706/155141328-6c61b5bb-979c-47a6-b359-2867a5ae3d38.png)
 
 **EJERCICIO 3**
 
 - Magnitud
+
 ![image](https://user-images.githubusercontent.com/93561706/155141455-ef76af6c-4cd7-485a-80d5-88064d251a2f.png)
 
 - Ángulo
+
 ![image](https://user-images.githubusercontent.com/93561706/155141553-68aa8cf1-4978-4d27-a8d9-879173f03f9d.png)
 
 **EJERCICIO 4**
 
 - Magnitud
+
 ![image](https://user-images.githubusercontent.com/93561706/155141663-94200bf4-12b8-43ed-861c-cbe37e06422a.png)
 
 - Ángulo
+
 ![image](https://user-images.githubusercontent.com/93561706/155141749-abc9024e-ff17-476b-a4cf-1f9abeb0ad2b.png)
 ![image](https://user-images.githubusercontent.com/93561706/155141823-875ecf6e-66f0-4175-a6a0-19958f26554f.png)
 
