@@ -77,25 +77,31 @@ resultados**
 **EJERCICIO 1**
 
 - PARTE REAL 
+
 ![image](https://user-images.githubusercontent.com/93361435/155044185-7cc3c9fa-a378-472c-b171-a6f327173ca5.png)
 
 -PARTE IMAGINARIA
+
 ![image](https://user-images.githubusercontent.com/93361435/155044258-f41e6bde-6cbb-43ae-9815-49b11fe8584a.png)
 
 **EJERCICIO 2**
 
 -  PARTE REAL
+
 ![image](https://user-images.githubusercontent.com/93361435/155044711-b3955505-01fe-4a20-af93-4d70c1019784.png)
 
 - PARTE IMAGINARIA
+
 ![image](https://user-images.githubusercontent.com/93361435/155044720-993cecb0-b0d1-4840-9a2d-acb2201f945a.png)
 
 **EJERCICIO 3**
 
 -PARTE REAL
+
 ![image](https://user-images.githubusercontent.com/93361435/155045077-cf93a11c-b69a-4b53-bbbd-303e471a51f9.png)
 
 -PARTE IMAGINARIA
+
 ![image](https://user-images.githubusercontent.com/93361435/155045110-9621cb64-c89c-4886-aaf9-ed78bb392658.png)
 
 
