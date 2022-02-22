@@ -47,6 +47,9 @@ En su forma polar tenemos:
 
 Para el segundo ejercicio en su forma rectangular tenemos:
 
+![image](https://user-images.githubusercontent.com/93361435/155043909-bcd95f02-2dd8-4d7d-b319-a4ca0549489b.png)
+
+![image](https://user-images.githubusercontent.com/93361435/155043943-4688c57b-9815-4691-bef9-ef7c60666220.png)
 
 
 En su forma polar tenemos: 
