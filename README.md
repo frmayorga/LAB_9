@@ -73,6 +73,20 @@ En su forma polar tenemos:
 **8.5.4 Resuelva las operaciones anteriores por medio de la calculadora y compare
 resultados**
 
+**Seccion 8.5.2**
+
+**EJERCICIO 1**
+![image](https://user-images.githubusercontent.com/93398718/155073745-c63396ca-0ef6-4c6b-ad13-87281316abd2.png)  
+
+**EJERCICIO 2**
+![image](https://user-images.githubusercontent.com/93398718/155073817-d25f9a3d-1033-4bcc-abd0-5861d4f73610.png)  
+
+**EJERCICIO 3**
+![image](https://user-images.githubusercontent.com/93398718/155073921-481db31c-0ccf-40ef-8f7a-308706d967c6.png)  
+
+**EJERCICIO 4**
+![image](https://user-images.githubusercontent.com/93398718/155074022-f260ff1d-ddf7-499c-a996-a0010ef86ba0.png)  
+
 
 **Seccion 8.5.3**
 
